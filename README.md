@@ -1,4 +1,33 @@
-<img width="1024" height="442" alt="b0444b28-1844-430a-9dd5-e6bfc347b3ec" src="https://github.com/user-attachments/assets/3bafcc8d-a81c-4b59-a8bd-5cd7ecf86268" />
+<div align="center">
+
+<img src="./github-header.png" width="100%" alt="Kanwal Naz - Frontend Developer">
+
+<br><br>
+
+<h1>💜 Kanwal Naz</h1>
+
+<h2>Frontend Developer</h2>
+
+<p>
+Turning ideas into modern & responsive web experiences ✨
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,github,firebase,mongodb,nodejs" />
+
+<br><br>
+
+<p>
+<b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>React</b> •
+<b>GitHub</b> • <b>Firebase</b> • <b>Database</b> • <b>Node.js</b> • <b>AI</b>
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me  <img width="1024" height="442" alt="b0444b28-1844-430a-9dd5-e6bfc347b3ec" src="https://github.com/user-attachments/assets/3bafcc8d-a81c-4b59-a8bd-5cd7ecf86268" />
 
 <h2>👩🏻‍💻 About Me</h2>
 <p>
