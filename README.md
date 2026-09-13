@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 About Me</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack+Specialist;Full+Stack+Trainer+%7C+Mentor+at+MN+Tech+Academy;Co-Founder+%7C+Building+Future+Developers" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Fronted+Developer+ Future+Developer" />
 
 </div>
 <p>
