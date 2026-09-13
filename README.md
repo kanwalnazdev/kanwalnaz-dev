@@ -1,6 +1,5 @@
   <img width="2172" height="724" alt="ChatGPT Image Sep 13, 2026, 01_45_03 PM" src="https://github.com/user-attachments/assets/cf7d8e45-c3dc-4267-a430-66c3b8805c29" />
 
-
 <h2>👩🏻‍💻 About Me</h2>
 <p>
 Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and responsive web experiences. I love turning ideas into clean, modern and user-friendly interfaces.
