@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 About Me</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Fronted+Developer+ Future+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Fronted+Developer+---Future+Developer" />
 
 </div>
 <p>
@@ -26,7 +26,7 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 
 <h2>🛠️ Skills & Technologies</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,github,Node"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,github" />
 </p>
 <br>
  <h2>🚀 Featured Projects</h2>
