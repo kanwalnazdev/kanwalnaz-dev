@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Fronted+Developer+---Future+Developer" />
 
-</div>
+</div> 
+## ✨ Profile Overview
 <p>
 Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and responsive web experiences. I love turning ideas into clean, modern and user-friendly interfaces.
 </p>
