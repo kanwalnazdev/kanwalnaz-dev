@@ -22,7 +22,7 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 
 <h2>🛠️ Skills & Technologies</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,github,Node"/>
 </p>
 <br>
  <h2>🚀 Featured Projects</h2>
