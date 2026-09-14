@@ -28,7 +28,7 @@ Hi, I'm Kanwal Naz Frontend Developer passionate about creating beautiful and re
 <h2>🛠️ Skills & Technologies</h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,github" />
-
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://cdn.simpleicons.org/claude" width="48" height="48" />
 </p>
 <br>
